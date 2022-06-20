@@ -4,10 +4,11 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-public class AppTest {
+public class AppTest 
+{
     
-  @Test
-  public void shouldAnswerWithTrue() {
-    assertTrue(true);
+ public static void main (String [] args) {
+	 
+	 int a= 40+10;
   }
 }
